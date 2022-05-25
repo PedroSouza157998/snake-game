@@ -1,4 +1,4 @@
 # snake-game
-clássico jogo dacobrinha feito em JS
+clássico jogo da cobrinha feito em JS
 
 ![print](print.png)
